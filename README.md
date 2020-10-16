@@ -1,1 +1,2 @@
-# GCSO-Simulator:- This is not a game,this is just a car crash testing application.It determines that if a certain car crashes how much damage will it take.So that we can assure that the certain car is safe to ride on.
+# GCSO-SIMULATOR
+This is the simple version of a Global Car Safety Organization Simulator.
